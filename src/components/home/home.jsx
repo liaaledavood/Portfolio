@@ -14,7 +14,7 @@ const Home = () => {
             <h1 className="text-4xl tracking-tight font-extrabold text-gray-900 sm:text-5xl md:text-6xl">
                 <span className="block text-black" > 
                     Hi, <br/> <TypeWriter
-                            texts={["I am Zahra", "But call me Lia"]}
+                            texts={["I am Zahra"]}
                             typingSpeed={80}
                             deletingSpeed={40}
                             pauseAfterType={1800}
